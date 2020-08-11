@@ -1,4 +1,4 @@
-# Givens_Web_Scraping_Challenge - Mission to Mars
+# Givens_Web_Scraping_Challenge - Missions to Mars
 
 Background: Build a flask web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page. 
 
@@ -42,8 +42,8 @@ Use MongoDB with Flask templating to create a new HTML page that displays all of
 
 ### Resulting Page
 
-![images/final_app_part1.png](Mission_to_Mars/images/final_app_part1.png)
-![images/final_app_part2.png](Mission_to_Mars/images/final_app_part2.png)
+![images/final_app_part1.png](Missions_to_Mars/images/final_app_part1.png)
+![images/final_app_part2.png](Missions_to_Mars/images/final_app_part2.png)
 
 ##### Notes
 
