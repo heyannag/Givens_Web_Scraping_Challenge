@@ -42,8 +42,8 @@ Use MongoDB with Flask templating to create a new HTML page that displays all of
 
 ### Resulting Page
 
-![images/final_app_part1.png](images/final_app_part1.png)
-![images/final_app_part2.png](images/final_app_part2.png)
+![images/final_app_part1.png](Mission_to_Mars/images/final_app_part1.png)
+![images/final_app_part2.png](Mission_to_Mars/images/final_app_part2.png)
 
 ##### Notes
 
